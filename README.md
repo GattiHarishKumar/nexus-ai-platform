@@ -33,7 +33,7 @@
 
 ## 📖 Executive Summary
 
-**Nexus AI** is a production-ready, full-stack conversational intelligence platform engineered by **Harish Kumar Gatti**. Built on modern **Java 23**, **Spring Boot 3.4**, and **React 19**, Nexus AI combines distributed **Retrieval-Augmented Generation (RAG)** via vector embeddings with high-throughput relational persistence and resilient multi-model LLM failover.
+**Nexus AI** is a production-ready, full-stack conversational intelligence platform. Built on modern **Java 23**, **Spring Boot 3.4**, and **React 19**, Nexus AI combines distributed **Retrieval-Augmented Generation (RAG)** via vector embeddings with high-throughput relational persistence and resilient multi-model LLM failover.
 
 Designed with an aesthetic **Sunburst Gold & Midnight Slate** design system, Nexus AI delivers sub-second conversational latency, enterprise zero-trust authentication, real-time performance telemetry, chat export utilities, and contextual skill agents.
 
